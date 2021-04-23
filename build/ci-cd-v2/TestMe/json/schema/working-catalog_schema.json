@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog control="0">
+   <control xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://csrc.nist.gov/ns/oscal/1.0">
+      <title>Control A</title>
+   </control>
+</catalog>
